@@ -1,8 +1,10 @@
 # ⌁ ComicCoder23
 
-**Late starter, building in public. Comedy, creativity & AI systems — Glasgow.**
+**Recovery-first. Code-obsessed. Glasgow.**
 
-I spent years on stages doing improv before I wrote a line of code. Turns out the rules transfer: listen hard, commit fully, and when something breaks — *"yes, and"* it into the next thing. Now I run a one-person studio where a crew of AI agents does the heavy lifting and I do the deciding.
+I studied HND Software Development at college, dropped out, and went to work — until I couldn't keep doing onsite work anymore. Coding never left; it's still the thing I geek out on. I like building, tinkering, and making things *actually work*. I balance the screen time with improv comedy, and recovery is the foundation under all of it.
+
+These days I run a one-person studio where a crew of AI agents does the heavy lifting and I do the deciding. Late start, building in public, nothing to hide about the road here.
 
 ## The operating idea
 
@@ -21,6 +23,7 @@ I spent years on stages doing improv before I wrote a line of code. Turns out th
 1. **Honest exit codes.** A tool that can't do its job says so loudly. Most of my tooling exists because of tools that lied politely.
 2. **If it isn't registered, it doesn't exist.** State lives in files you can read, not in anyone's head.
 3. **The demo machine is the real machine.** No cloud-shaped excuses.
+4. **One day at a time ships more than one big push.** True in recovery, true in git.
 
 ## Elsewhere
 
