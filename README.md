@@ -2,9 +2,9 @@
 
 **Recovery-first. Code-obsessed. Glasgow.**
 
-I studied HND Software Development at college, dropped out, and went to work — until I couldn't keep doing onsite work anymore. Coding never left; it's still the thing I geek out on. I like building, tinkering, and making things *actually work*. I balance the screen time with improv comedy, and recovery is the foundation under all of it.
+I studied HND Software Development at college, dropped out, and went to work in *communications* — which is a clever way of saying telesales — until I mentally couldn't do that anymore. So I rebuilt my life from zero, and the rebuild took me to happiness. Coding never left through any of it; it's still the thing I geek out on. I like building, tinkering, and making things *actually work*. I balance the screen time with improv comedy, and recovery is the foundation under all of it.
 
-These days I run a one-person studio where a crew of AI agents does the heavy lifting and I do the deciding. Late start, building in public, nothing to hide about the road here.
+These days I run a one-person studio where a crew of AI agents does the heavy lifting and I do the deciding. Financial success would be an amazing by-product — but it's not the north star. I'm humble, I'm grateful, and peace of mind is my real success. Late start, building in public, nothing to hide about the road here.
 
 ## The operating idea
 
