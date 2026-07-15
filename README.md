@@ -28,6 +28,7 @@ These days I run a one-person studio where a crew of AI agents does the heavy li
 ## Elsewhere
 
 - 🐦 [@ComicCoder23](https://x.com/ComicCoder23) — build log & operator notes
+- ☕ [ko-fi.com/comiccoder23](https://ko-fi.com/comiccoder23) — the tip jar, entirely optional
 - ⭐ Best way to support the work: star it, fork it, break it, tell me what broke
 
 *Built with a crew of AI agents and one stubborn human. The human writes the jokes.*
