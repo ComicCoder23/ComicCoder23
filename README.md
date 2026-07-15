@@ -2,9 +2,11 @@
 
 **Recovery-first. Code-obsessed. Glasgow.**
 
-I studied HND Software Development at college, dropped out, and went to work in *communications* — which is a clever way of saying telesales — until I mentally couldn't do that anymore. So I rebuilt my life from zero, and the rebuild took me to happiness. Coding never left through any of it; it's still the thing I geek out on. I like building, tinkering, and making things *actually work*. I balance the screen time with improv comedy, and recovery is the foundation under all of it.
+I studied HND Software Development at college, dropped out, and went to work in *communications* — which is a clever way of saying telesales — until I hit my boiling point. Then I rebuilt my life from zero. Recovery is the foundation under everything I am and everything I build: I live by a daily program, and it turns out the discipline that keeps you well also makes you unusually productive, reliable, and honest about what's actually working. I can't do much about the stigma that comes with saying that out loud. I'm not ashamed of it. It's my superpower, not my footnote.
 
-These days I run a one-person studio where a crew of AI agents does the heavy lifting and I do the deciding. Financial success would be an amazing by-product — but it's not the north star. I'm humble, I'm grateful, and peace of mind is my real success. Late start, building in public, nothing to hide about the road here.
+These days I run a one-person studio where a crew of AI agents does the heavy lifting and I do the deciding. I balance the screen time with improv comedy — hence the name. Financial success would be a fine by-product, but peace of mind is the real metric. Late start, building in public, nothing to hide about the road here.
+
+If you're deciding whether I'm someone worth working with: read the house rules below, then go break [memory-city](https://github.com/ComicCoder23/memory-city) and watch how I handle the issue queue. That's the interview.
 
 ## The operating idea
 
