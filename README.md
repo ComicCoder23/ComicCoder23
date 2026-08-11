@@ -12,6 +12,12 @@ If you're deciding whether I'm someone worth working with: read the house rules 
 
 **Local-first. Free-first. Own the connections.** No middleware rent, no data shipped to someone else's cloud. Everything runs on a 2012-era machine with 12GB of RAM — if it works here, it works anywhere.
 
+## Latest build — Look Up
+
+**[Use it → comiccoder23.github.io/lookup](https://comiccoder23.github.io/lookup/)** · [source](https://github.com/ComicCoder23/lookup)
+
+An eclipse companion for 12 August 2026, built and shipped from a phone the day before the eclipse. Type your town and it computes your times to the second from your own coordinates — Meeus solar theory, verified against sixteen published city timings to within seven seconds — then talks you through the whole event with your phone in your pocket. Forecast says clouds? It checks the sky in every direction around you and points you at the nearest gap, by car or bus. One HTML file on GitHub Pages. No tracking, no signup, no app store — open it once and "Add to Home screen" installs it like an app. Honest exit codes, but for the sky.
+
 ## Now building
 
 | Project | What it is |
