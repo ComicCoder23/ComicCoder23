@@ -13,12 +13,6 @@
 
 I'm Alan, in Kirkintilloch. Customer service since 2004, HNC Computing, now moving into first-line IT support — building practical local-first tools in public as <strong>ComicCoder23</strong>.
 
-<p align="center">
-  <img src="./assets/comiccoder23-portrait.jpg" alt="Portrait of Alan surrounded by electric-blue code, liquid silver and violet light." width="250" />
-  <img src="./assets/alan-app-labs.jpg" alt="Alan App Labs wordmark." width="360" />
-  <img src="./assets/code-pen-mouse.png" alt="Illustration of a computer mouse and fountain pen spelling CC23." width="250" />
-</p>
-
 ## Signal deck — the kit I use hands-on
 
 <p align="center"><strong>Build</strong></p>
