@@ -19,23 +19,52 @@ I'm Alan, in Kirkintilloch. Customer service since 2004, HNC Computing, now movi
   <img src="./assets/code-pen-mouse.png" alt="Illustration of a computer mouse and fountain pen spelling CC23." width="250" />
 </p>
 
-## Signal deck — what I work with
+## Signal deck — the kit I use hands-on
 
+<p align="center"><strong>Build</strong></p>
 <p align="center">
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript — interactive tools, app logic and automation"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript — safer JavaScript for larger builds"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML — accessible structure for the web"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS — visual systems, responsive layouts and polish"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" /></a>
+  <a href="https://react.dev/" title="React — component-based web apps"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a>
+  <a href="https://nodejs.org/" title="Node.js — JavaScript tooling and services"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" /></a>
+  <a href="https://vite.dev/" title="Vite — fast frontend tooling"><img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS — utility-first interface building"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" /></a>
   <a href="https://webassembly.org/" title="WebAssembly — fast browser-side computation"><img src="https://skillicons.dev/icons?i=wasm" height="48" alt="WebAssembly" /></a>
 </p>
 
-<p align="center"><sub>Hover an icon for its quick description. The full key is below so it stays readable on mobile and with assistive technology.</sub></p>
+<p align="center"><strong>Ship, data &amp; automation</strong></p>
+<p align="center">
+  <a href="https://git-scm.com/" title="Git — version history and safe changes"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub — code, issues and project delivery"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /></a>
+  <a href="https://docs.github.com/actions" title="GitHub Actions — repeatable workflows"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" /></a>
+  <a href="https://www.docker.com/" title="Docker — repeatable local services"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL — relational data"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>
+  <a href="https://supabase.com/" title="Supabase — backend services and data"><img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" /></a>
+  <a href="https://code.visualstudio.com/" title="VS Code — daily editor and terminal"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="Visual Studio Code" /></a>
+  <a href="https://learn.microsoft.com/powershell/" title="PowerShell — Windows automation and support tooling"><img src="https://skillicons.dev/icons?i=powershell" height="48" alt="PowerShell" /></a>
+</p>
 
-| Signal | What it means here |
+<p align="center"><strong>Operator stack</strong></p>
+<p align="center">
+  <a href="https://obsidian.md/" title="Obsidian — local knowledge base and second brain"><img src="https://skillicons.dev/icons?i=obsidian" height="48" alt="Obsidian" /></a>
+  <a href="https://www.notion.so/" title="Notion — planning, operations and documentation"><img src="https://skillicons.dev/icons?i=notion" height="48" alt="Notion" /></a>
+  <a href="https://airtable.com/" title="Airtable — structured records, workflows and content operations"><img src="https://cdn.simpleicons.org/airtable/18BFFF" height="48" alt="Airtable" /></a>
+  <a href="https://www.kernel.org/" title="Linux — open systems and server-side foundations"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /></a>
+  <a href="https://linuxmint.com/" title="Linux Mint — hands-on desktop Linux"><img src="https://skillicons.dev/icons?i=mint" height="48" alt="Linux Mint" /></a>
+  <a href="https://tailscale.com/" title="Tailscale — secure mesh networking between machines"><img src="https://cdn.simpleicons.org/tailscale/242424" height="48" alt="Tailscale" /></a>
+  <a href="https://learn.microsoft.com/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients" title="Windows and Remote Desktop Connection — hands-on support and remote systems"><img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows and Remote Desktop Connection" /></a>
+  <a href="https://www.figma.com/" title="Figma — interface ideas and design context"><img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" /></a>
+</p>
+
+<p align="center"><sub>Hover an icon for its quick description; tap/click opens the official tool. The key below stays readable on mobile and with assistive technology.</sub></p>
+
+| Signal | Hands-on role |
 |---|---|
-| JavaScript | Interactive tools, app logic and automation |
-| HTML | Accessible structure and durable web foundations |
-| CSS | Visual systems, responsive layouts and polish |
-| WebAssembly | Fast browser-side computation when plain JavaScript is not enough |
+| Build | JavaScript, TypeScript, HTML, CSS, React, Node.js, Vite, Tailwind CSS and WebAssembly |
+| Ship, data &amp; automation | Git, GitHub, GitHub Actions, Docker, PostgreSQL, Supabase, VS Code and PowerShell |
+| Operator stack | Obsidian, Notion, Airtable, Linux, Linux Mint, Tailscale, Windows / Remote Desktop Connection and Figma |
 
 ## The operating idea
 
