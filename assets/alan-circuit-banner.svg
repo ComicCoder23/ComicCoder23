@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">ComicCoder23 — Alan App Labs</title>
+  <desc id="description">An electric blue grid with circuit-board trails, pink and green mesh connections, yellow signal lines, and liquid-silver pellets.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050817"/>
+      <stop offset="0.55" stop-color="#091a3d"/>
+      <stop offset="1" stop-color="#170c32"/>
+    </linearGradient>
+    <linearGradient id="electric" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36d8ff"/>
+      <stop offset="0.36" stop-color="#e958ff"/>
+      <stop offset="0.66" stop-color="#f8e54c"/>
+      <stop offset="1" stop-color="#87ff62"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.3" stop-color="#8ba1bc"/>
+      <stop offset="0.58" stop-color="#f7faff"/>
+      <stop offset="1" stop-color="#53667d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#67e9ff" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#67e9ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#34c9ff" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#night)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <ellipse cx="1060" cy="80" rx="190" ry="160" fill="url(#glow)" opacity=".6"/>
+  <ellipse cx="120" cy="260" rx="230" ry="120" fill="url(#glow)" opacity=".28"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M-10 255 C130 196 208 293 335 215 S568 108 694 176 S890 267 1215 128" stroke="url(#electric)" stroke-width="3" filter="url(#softGlow)"/>
+    <path d="M-20 275 C136 226 222 310 356 232 S590 134 716 201 S925 284 1220 148" stroke="#36d8ff" stroke-opacity=".46" stroke-width="1.5"/>
+    <path d="M28 64 H150 V104 H238 V53 H339" stroke="#87ff62" stroke-width="2.4"/>
+    <path d="M808 244 H886 V195 H968 V234 H1118 V178" stroke="#f8e54c" stroke-width="2.4"/>
+    <path d="M741 43 H844 V90 H920 V35 H1038 V70 H1168" stroke="#e958ff" stroke-width="2.2"/>
+    <path d="M103 164 L201 113 L278 174 L376 98 L445 151" stroke="#36d8ff" stroke-opacity=".64" stroke-width="1.5"/>
+    <path d="M762 139 L846 107 L925 156 L1010 98 L1100 144" stroke="#87ff62" stroke-opacity=".58" stroke-width="1.5"/>
+  </g>
+
+  <g fill="#071126" stroke="url(#electric)" stroke-width="2">
+    <circle cx="150" cy="104" r="7"/><circle cx="238" cy="53" r="7"/><circle cx="886" cy="195" r="7"/>
+    <circle cx="968" cy="234" r="7"/><circle cx="920" cy="35" r="7"/><circle cx="1038" cy="70" r="7"/>
+  </g>
+  <g fill="url(#silver)" stroke="#dff4ff" stroke-opacity=".72">
+    <circle cx="466" cy="206" r="9"/><circle cx="501" cy="180" r="5"/><circle cx="526" cy="215" r="7"/>
+    <circle cx="698" cy="90" r="8"/><circle cx="733" cy="68" r="4"/><circle cx="760" cy="103" r="6"/>
+    <circle cx="1080" cy="219" r="9"/><circle cx="1111" cy="242" r="5"/><circle cx="1141" cy="208" r="7"/>
+  </g>
+  <g fill="#d9fbff" opacity=".85">
+    <circle cx="201" cy="113" r="3"/><circle cx="278" cy="174" r="3"/><circle cx="376" cy="98" r="3"/>
+    <circle cx="846" cy="107" r="3"/><circle cx="925" cy="156" r="3"/><circle cx="1010" cy="98" r="3"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f5fbff">
+    <text x="60" y="152" font-size="18" letter-spacing="6" fill="#87ff62">ALAN APP LABS</text>
+    <text x="57" y="208" font-size="48" font-weight="700" letter-spacing="1">COMICCODER23</text>
+    <text x="60" y="238" font-size="14" letter-spacing="3" fill="#a8c6df">BUILD · AUTOMATE · CREATE · REPEAT</text>
+  </g>
+  <g transform="translate(1050 50)" fill="none" stroke="url(#electric)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)">
+    <path d="M0 29 L23 7 M0 29 L23 51 M42 4 L28 57"/>
+  </g>
+</svg>

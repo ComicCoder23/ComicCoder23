@@ -1,10 +1,41 @@
-# ⌁ ComicCoder23
+<!-- Author: Codex (GPT-5, local) · Lane: local · Date: 2026-10-18 -->
 
-I'm Alan, in Kirkintilloch. Customer service since 2004, HNC Computing, now moving into first-line IT support.
+<p align="center">
+  <img src="./assets/alan-circuit-banner.svg" alt="ComicCoder23 and Alan App Labs over an electric-blue circuit grid with pink, yellow and green signal trails and liquid-silver pellets." width="100%" />
+</p>
 
-## Working with
+<p align="center">
+  <img src="./assets/comiccoder23-live.jpg" alt="Alan, as ComicCoder23, standing in a blue neon grid with code, circuitry and the words Build, Automate, Create, Repeat." width="100%" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h1 align="center">⌁ ComicCoder23</h1>
+<p align="center"><strong>Alan App Labs · build / automate / create / repeat</strong></p>
+
+I'm Alan, in Kirkintilloch. Customer service since 2004, HNC Computing, now moving into first-line IT support — building practical local-first tools in public as <strong>ComicCoder23</strong>.
+
+<p align="center">
+  <img src="./assets/comiccoder23-portrait.jpg" alt="Portrait of Alan surrounded by electric-blue code, liquid silver and violet light." width="250" />
+  <img src="./assets/alan-app-labs.jpg" alt="Alan App Labs wordmark." width="360" />
+  <img src="./assets/code-pen-mouse.png" alt="Illustration of a computer mouse and fountain pen spelling CC23." width="250" />
+</p>
+
+## Signal deck — what I work with
+
+<p align="center">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript — interactive tools, app logic and automation"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML — accessible structure for the web"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS — visual systems, responsive layouts and polish"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" /></a>
+  <a href="https://webassembly.org/" title="WebAssembly — fast browser-side computation"><img src="https://skillicons.dev/icons?i=wasm" height="48" alt="WebAssembly" /></a>
+</p>
+
+<p align="center"><sub>Hover an icon for its quick description. The full key is below so it stays readable on mobile and with assistive technology.</sub></p>
+
+| Signal | What it means here |
+|---|---|
+| JavaScript | Interactive tools, app logic and automation |
+| HTML | Accessible structure and durable web foundations |
+| CSS | Visual systems, responsive layouts and polish |
+| WebAssembly | Fast browser-side computation when plain JavaScript is not enough |
 
 ## The operating idea
 
