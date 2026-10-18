@@ -2,6 +2,10 @@
 
 I'm Alan, in Kirkintilloch. Customer service since 2004, HNC Computing, now moving into first-line IT support.
 
+## Working with
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## The operating idea
 
 **Local-first. Free-first. Own the connections.** No middleware rent, no data shipped to someone else's cloud. Everything runs on a 2012-era machine with 12GB of RAM — if it works here, it works anywhere.
